@@ -1,7 +1,3 @@
-📄 README.md para smart_storage_manager
-markdown
-Copiar
-Editar
 # 📦 Smart Storage Manager
 
 Gestor inteligente de almacenamiento para estaciones de trabajo con múltiples discos.  
