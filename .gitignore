@@ -18,3 +18,5 @@ __pycache__/
 
 # Cositas que a veces genera Streamlit
 .streamlit/secrets.toml
+
+.vscode
