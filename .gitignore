@@ -1,0 +1,20 @@
+# Configuración local
+config.json
+
+# Base de datos local de movimientos
+movements_log.db
+
+# Entorno virtual (por si se crea en la raíz o dentro del proyecto)
+venv/
+.venv/
+
+# Archivos de backup de VS Code y otros
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+*.log
+
+# Cositas que a veces genera Streamlit
+.streamlit/secrets.toml
